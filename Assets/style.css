@@ -1,0 +1,12 @@
+.searchResults th, td {
+    border: 1px solid black;
+}
+
+.searchResults{
+    margin:auto;
+}
+.error{
+    color:red;
+    font-style :italic;
+    padding-top:15px;
+}
